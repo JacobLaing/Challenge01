@@ -1,5 +1,5 @@
 # Challenge01
-Daily programmer challenge #375
+Daily programmer challenge #375 [Easy]
 
 This is a challenge posted to r/dailyprogrammer. I have completed both the challenge and the bonus which means I did not convert the number at any point in order to iterate through it. I have completed this challenge in both C and Java as they are fairly similar solutions. Below is a description of the challenge with a link to the reddit post.
 
